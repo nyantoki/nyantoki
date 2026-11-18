@@ -57,7 +57,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.ibb.co/MDrLB00k/i-fucking-lied.png"  />
+  <img data-importer="image" height="400" src="https://i.ibb.co/MDrLB00k/i-fucking-lied.png"  />
 </div>
 
 ###
