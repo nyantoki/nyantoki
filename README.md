@@ -65,11 +65,3 @@
 <h2 data-importer="text" align="left">sorry i lied, there's no projects yet</h2>
 
 ###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nyantoki/nyantoki/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nyantoki/nyantoki/pacman-output/breakout-contribution-graph.svg?game=breakout">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nyantoki/nyantoki/pacman-output/breakout-contribution-graph.svg?game=breakout">
-</picture>
-
-###
